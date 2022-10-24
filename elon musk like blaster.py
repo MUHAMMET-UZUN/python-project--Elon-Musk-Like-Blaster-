@@ -43,7 +43,7 @@ def atesgit():
     y = ates.ycor()
     y = y + ateshizi
     ates.sety(y)
-    #ateş etme sesi eklenecekl
+    #ateş etme sesi eklenecek
 
 def sola_git():
     x = oyuncu.xcor()
